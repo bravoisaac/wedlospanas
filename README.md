@@ -1,2 +1,2 @@
 # wedlospanas
-panas 
+panas de podos
